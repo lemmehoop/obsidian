@@ -1,0 +1,3 @@
+[[💽 sqlalchemy]]
+[[📄 bases]]
+[[🗃️ django orm]]

@@ -1,0 +1,2 @@
+[[⚙️ bases]]
+[[🪢 functional programming]]
